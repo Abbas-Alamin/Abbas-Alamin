@@ -29,10 +29,10 @@ A production-grade configuration management pipeline demonstrating advanced mult
 
 ---
 
- ## 📈 GitHub Metrics & Analytics
+## 📈 GitHub Metrics & Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abbas-Alamin&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abbas-Alamin&show_icons=true&theme=radical&version=2" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abbas-Alamin&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
 
