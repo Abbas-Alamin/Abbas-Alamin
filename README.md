@@ -12,10 +12,10 @@ A result-oriented and disciplined **DevOps & Cloud Engineer** passionate about a
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| *Containerization & K8s* | Docker, Docker Compose, Multi-Stage Builds, Kubernetes (CKA Path), kubectl |
-| *Automation & IaC* | Ansible, Ansible Navigator, Ansible Vault, Bash Scripting, Linux Automation |
-| *Operating Systems* | Red Hat Enterprise Linux (RHEL), Enterprise Linux Hardening |
-| *Cloud & CI/CD* | AWS , Git, GitHub Architecture |
+| **Containerization & K8s** | Docker, Docker Compose, Multi-Stage Builds, Kubernetes (CKA Path), kubectl |
+| **Automation & IaC** | Ansible, Ansible Navigator, Ansible Vault, Bash Scripting, Linux Automation |
+| **Operating Systems** | Red Hat Enterprise Linux (RHEL), Enterprise Linux Hardening |
+| **Cloud & CI/CD** | AWS , Git, GitHub Architecture |
 
 ---
 
