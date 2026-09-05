@@ -1,10 +1,10 @@
 # 👋 Hi, I'm a DevOps & Cloud Infrastructure Engineer
 
 ## 📌 About Me
-A result-oriented and disciplined **DevOps & Cloud Engineer** passionate about automating infrastructure, optimizing system engines, and building high-availability cluster environments. I specialize in turning complex infrastructure setups into clean, scalable, and secure **Infrastructure as Code (IaC)** pipelines.
+A result-oriented and disciplined **DevOps & Cloud Engineer** passionate about automating infrastructure, optimizing system engines, and building high-availability cluster environments. I specialize in turning complex infrastructure setups into clean, scalable, and secure **Infrastructure as Code (IaC)** **container orchestration** pipelines.
 
-* 🌐 **Core Focus:** Configuration Management, System Auditing, and Cloud Architecture.
-* ⚡ **Philosophy:** Code should be clean, secure, and production-ready.
+* 🌐 **Core Focus:** Configuration Management, System Auditing, and Cloud Architecture, Enterprise Container Orchestration, System Automation, Infrastructure as Code (IaC), and Security Hardening.
+* ⚡ **Philosophy:**  Infrastructure should be reproducible, secure by design, and optimized for high-availability production environments.
 
 ---
 
@@ -12,10 +12,10 @@ A result-oriented and disciplined **DevOps & Cloud Engineer** passionate about a
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Automation & IaC** | Ansible, Ansible Navigator, Ansible Vault |
-| **Operating Systems** | Red Hat Enterprise Linux (RHEL), Linux Administration |
-| **Cloud Infrastructure**| AWS (Amazon Web Services), CloudOps |
-| **Version Control & CI/CD** | Git, GitHub |
+| *Containerization & K8s* | Docker, Docker Compose, Multi-Stage Builds, Kubernetes (CKA Path), kubectl |
+| *Automation & IaC* | Ansible, Ansible Navigator, Ansible Vault, Bash Scripting, Linux Automation |
+| *Operating Systems* | Red Hat Enterprise Linux (RHEL), Enterprise Linux Hardening |
+| *Cloud & CI/CD* | AWS , Git, GitHub Architecture |
 
 ---
 
@@ -26,6 +26,21 @@ A production-grade configuration management pipeline demonstrating advanced mult
 * **SecOps Best Practices:** Implemented full AES-256 encryption via `Ansible Vault` to isolate credentials.
 * **Advanced Automation:** Automated custom & native fact pipelines to handle machine intelligence.
 * **System Auditing:** Designed conditional state execution using `register` variables and `stat` modules to guarantee system idempotency.
+
+### ☸️ [Kubernetes](https://github.com/Abbas-Alamin/Kubernetes)
+An enterprise-grade repository showcasing declarative Kubernetes orchestration, core workload management, and multi-tenancy isolation.
+* **CKA Standard Efficiency:** Mastered imperative dry-run generation (kubectl --dry-run=client -o yaml) to rapidly construct error-free YAML manifests.
+* **Multi-Tenancy & Self-Healing:** Implemented isolated Namespace environments and high-availability Deployment controllers (deploy1 running Nginx) with dynamic state reconciliation.
+
+### 🐳 [Docker-portfolio](https://github.com/Abbas-Alamin/Docker-portfolio)
+An end-to-end repository featuring enterprise containerization workflows, image optimization, and multi-container orchestration.
+* **Production-Hardened Multi-Stage Builds:** Reduced image footprint and attack surface by filtering compilation layers and enforcing non-root user execution (USER abbas).
+* **Multi-Container Stack Orchestration:** Orchestrated full-stack environments via Docker Compose with explicit subnets, IPAM networking, and volume persistence
+
+### 🐚 [bash-scripting](https://github.com/Abbas-Alamin/bash-scripting)
+Modular Shell scripting solutions for Linux administration, system health monitoring, and automated deployment tasks.
+* **System Automation:** Built idempotent and reliable bash tools with robust error handling and execution logging.
+
 
 ---
 
@@ -40,5 +55,6 @@ A production-grade configuration management pipeline demonstrating advanced mult
 ---
 
 ## 📫 Connect with Me
-* 💬 Ask me about: **Ansible, Linux Administration, and Cloud Infrastructure**
-* ⚡ Fun Fact: "The cleanest code is the code less prone to errors."
+ 💬 Ask me about: **Kubernetes, Docker, Ansible, Linux Administration, and Bash Automation**
+
+ ⚡ Fun Fact: "The cleanest infrastructure is automated, containerized, and secure by default."
