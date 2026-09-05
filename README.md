@@ -1,7 +1,7 @@
 # 👋 Hi, I'm a DevOps & Cloud Infrastructure Engineer
 
 ## 📌 About Me
-A result-oriented and disciplined **DevOps & Cloud Engineer** passionate about automating infrastructure, optimizing system engines, and building high-availability cluster environments. I specialize in turning complex infrastructure setups into clean, scalable, and secure **Infrastructure as Code (IaC)** **container orchestration** pipelines.
+A result-oriented and disciplined **DevOps & Cloud Engineer** passionate about automating infrastructure, optimizing system engines, and building high-availability cluster environments. I specialize in turning complex infrastructure setups into clean, scalable, and secure **Infrastructure as Code (IaC)** and **container orchestration** pipelines.
 
 * 🌐 **Core Focus:** Configuration Management, System Auditing, and Cloud Architecture, Enterprise Container Orchestration, System Automation, Infrastructure as Code (IaC), and Security Hardening.
 * ⚡ **Philosophy:**  Infrastructure should be reproducible, secure by design, and optimized for high-availability production environments.
